@@ -1,0 +1,7 @@
+{
+    "slidev.port": 3030,
+    "slidev.include": [
+        "**/slides.md",
+        "my_notes/NLP_PRE/pages/imported-slides.md"
+    ]
+}
